@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/iPod/static/css/main.a2e7bd60.chunk.css",
+    "main.js": "/iPod/static/js/main.01b78fdb.chunk.js",
+    "main.js.map": "/iPod/static/js/main.01b78fdb.chunk.js.map",
+    "runtime-main.js": "/iPod/static/js/runtime-main.3a22bdbc.js",
+    "runtime-main.js.map": "/iPod/static/js/runtime-main.3a22bdbc.js.map",
+    "static/js/2.4667406a.chunk.js": "/iPod/static/js/2.4667406a.chunk.js",
+    "static/js/2.4667406a.chunk.js.map": "/iPod/static/js/2.4667406a.chunk.js.map",
+    "index.html": "/iPod/index.html",
+    "precache-manifest.45d2af700325afe5b096738acc220632.js": "/iPod/precache-manifest.45d2af700325afe5b096738acc220632.js",
+    "service-worker.js": "/iPod/service-worker.js",
+    "static/css/main.a2e7bd60.chunk.css.map": "/iPod/static/css/main.a2e7bd60.chunk.css.map",
+    "static/js/2.4667406a.chunk.js.LICENSE.txt": "/iPod/static/js/2.4667406a.chunk.js.LICENSE.txt",
+    "static/media/Bas_tu.mp3": "/iPod/static/media/Bas_tu.d37c85cb.mp3",
+    "static/media/Brown-Rang.mp3": "/iPod/static/media/Brown-Rang.b7cc3d3b.mp3",
+    "static/media/Heeriye.mp3": "/iPod/static/media/Heeriye.7b200147.mp3",
+    "static/media/Heeriye.jpg": "/iPod/static/media/Heeriye.bb2c3b12.jpg",
+    "static/media/Hummer.mp3": "/iPod/static/media/Hummer.22fd016d.mp3",
+    "static/media/Sambh.mp3": "/iPod/static/media/Sambh.005ac1ec.mp3",
+    "static/media/bas_tu.jpg": "/iPod/static/media/bas_tu.15dba15d.jpg",
+    "static/media/brown.png": "/iPod/static/media/brown.c0be6a5c.png",
+    "static/media/game.jpg": "/iPod/static/media/game.0f702e6d.jpg",
+    "static/media/music.jpg": "/iPod/static/media/music.86f65282.jpg",
+    "static/media/settings.png": "/iPod/static/media/settings.626bd78a.png",
+    "static/media/song1-sambh.jpg": "/iPod/static/media/song1-sambh.e6885a7a.jpg",
+    "static/media/song2-hummer.jpg": "/iPod/static/media/song2-hummer.76cc066f.jpg",
+    "static/media/wallpaper1.jpg": "/iPod/static/media/wallpaper1.227f0ba9.jpg",
+    "static/media/wallpaper2.jpg": "/iPod/static/media/wallpaper2.23077a93.jpg",
+    "static/media/wallpaper3.jpg": "/iPod/static/media/wallpaper3.b2fda5ca.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3a22bdbc.js",
+    "static/js/2.4667406a.chunk.js",
+    "static/css/main.a2e7bd60.chunk.css",
+    "static/js/main.01b78fdb.chunk.js"
+  ]
+}
